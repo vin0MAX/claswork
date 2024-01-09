@@ -1,0 +1,17 @@
+.btn{
+    font-size: 20px;
+    background-color: blue;
+    color: aliceblue;
+    padding: 10px 25px;
+    border: none;
+    border-radius: 10px;
+    cursor: pointer;
+}
+.box{
+    margin-top: 10px;
+    width:  200px;
+    height: 200px;
+    background-color: black;
+    border: 5px dotted green;
+    border-radius: 50%;
+}
